@@ -1,4 +1,4 @@
-baseURL: "https://armandouv.github.io/personal-site"
+baseURL: "https://armandouv.github.io/personal-site/"
 languageCode: "en-us"
 title: "Armando Ugalde's Personal Site"
 theme: hugo-profile
